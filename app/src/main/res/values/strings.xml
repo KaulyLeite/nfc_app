@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">NFC App</string>
+    <string name="opcao_ler">Read NFC Tag</string>
+    <string name="opcao_escrever">Write to NFC Tag</string>
+    <string name="opcao_limpar">Clear NFC Tag</string>
+    <string name="titulo_ler">To read, bring the device close to the NFC Tag</string>
+    <string name="titulo_escrever">To write, enter the content in the field below and bring the device close to the NFC Tag</string>
+    <string name="titulo_limpar">To clear, bring the device close to the NFC Tag</string>
+    <string name="titulo_resultado">Result:</string>
+    <string name="texto_conteudo">Tag Content</string>
+    <string name="sem_conteudo">No content found on the NFC Tag!</string>
+    <string name="erro_ler">Error reading NFC Tag!</string>
+    <string name="sucesso_escrever">The content has been successfully written to the NFC Tag!</string>
+    <string name="erro_escrever">Error writing content to the NFC Tag!</string>
+    <string name="erro_digitar">The content needs to be entered!</string>
+    <string name="sucesso_limpar">The content of the NFC Tag has been successfully cleared!</string>
+    <string name="erro_limpar">Error clearing the content of the NFC Tag!</string>
+    <string name="sem_suporte">The device does not support NFC technology!</string>
+    <string name="texto_versao">Version: %s</string>
+    <string name="texto_desenvolvedor">Powered by Kauly</string>
+</resources>
